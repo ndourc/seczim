@@ -1,0 +1,840 @@
+INFO 2025-08-22 19:38:49,564 autoreload 16192 13272 Watching for file changes with StatReloader
+INFO 2025-08-22 19:39:53,155 autoreload 16192 13272 C:\the_dev\nust\prudential\prudential-backend\apps\core\admin.py changed, reloading.
+INFO 2025-08-22 19:39:54,736 autoreload 14992 2168 Watching for file changes with StatReloader
+INFO 2025-08-22 19:40:44,500 autoreload 14992 2168 C:\the_dev\nust\prudential\prudential-backend\apps\core\serializers.py changed, reloading.
+INFO 2025-08-22 19:40:45,477 autoreload 15520 10376 Watching for file changes with StatReloader
+INFO 2025-08-22 19:43:11,581 autoreload 15520 10376 C:\the_dev\nust\prudential\prudential-backend\apps\core\views.py changed, reloading.
+INFO 2025-08-22 19:43:24,747 autoreload 13076 19940 Watching for file changes with StatReloader
+INFO 2025-08-22 19:51:15,891 autoreload 13076 19940 C:\the_dev\nust\prudential\prudential-backend\config\__init__.py changed, reloading.
+INFO 2025-08-22 19:51:32,128 autoreload 14416 20116 Watching for file changes with StatReloader
+INFO 2025-08-22 19:51:43,545 autoreload 14416 20116 C:\the_dev\nust\prudential\prudential-backend\apps\case_management_module\apps.py changed, reloading.
+INFO 2025-08-22 19:51:45,299 autoreload 23220 20120 Watching for file changes with StatReloader
+INFO 2025-08-22 19:51:56,530 autoreload 23220 20120 C:\the_dev\nust\prudential\prudential-backend\apps\va_vasp_module\apps.py changed, reloading.
+INFO 2025-08-22 19:52:11,830 autoreload 18224 21460 Watching for file changes with StatReloader
+INFO 2025-08-22 20:00:22,037 autoreload 18224 21460 C:\the_dev\nust\prudential\prudential-backend\config\__init__.py changed, reloading.
+INFO 2025-08-22 20:00:23,007 autoreload 16300 18504 Watching for file changes with StatReloader
+INFO 2025-08-22 20:02:13,313 autoreload 16300 18504 C:\the_dev\nust\prudential\prudential-backend\config\settings.py changed, reloading.
+INFO 2025-08-22 20:02:14,008 autoreload 2480 8988 Watching for file changes with StatReloader
+INFO 2025-08-22 20:02:40,813 autoreload 2480 8988 C:\the_dev\nust\prudential\prudential-backend\config\settings.py changed, reloading.
+INFO 2025-08-22 20:02:41,885 autoreload 9664 7104 Watching for file changes with StatReloader
+INFO 2025-08-22 20:03:04,928 autoreload 9664 7104 C:\the_dev\nust\prudential\prudential-backend\config\settings.py changed, reloading.
+INFO 2025-08-22 20:03:05,908 autoreload 19348 18464 Watching for file changes with StatReloader
+INFO 2025-08-22 20:56:55,624 autoreload 15996 15532 Watching for file changes with StatReloader
+INFO 2025-08-22 21:01:01,631 autoreload 10300 16160 Watching for file changes with StatReloader
+INFO 2025-08-22 21:07:20,310 autoreload 17356 15908 Watching for file changes with StatReloader
+INFO 2025-08-22 21:08:46,535 autoreload 17356 15908 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\urls.py changed, reloading.
+INFO 2025-08-22 21:08:47,390 autoreload 9512 18424 Watching for file changes with StatReloader
+INFO 2025-08-22 21:10:56,159 autoreload 9996 15504 Watching for file changes with StatReloader
+WARNING 2025-08-22 21:13:28,470 log 9512 14988 Not Found: /api/core/smis/summary/
+WARNING 2025-08-22 21:13:28,473 basehttp 9512 14988 "GET /api/core/smis/summary/ HTTP/1.1" 404 3772
+WARNING 2025-08-22 21:13:28,601 log 9512 15480 Not Found: /api/core/risk-assessments/summary/
+WARNING 2025-08-22 21:13:28,602 basehttp 9512 15480 "GET /api/core/risk-assessments/summary/ HTTP/1.1" 404 3808
+WARNING 2025-08-22 21:13:28,702 log 9512 11808 Unauthorized: /api/compliance/compliance-indices/summary/
+WARNING 2025-08-22 21:13:28,720 basehttp 9512 11808 "GET /api/compliance/compliance-indices/summary/ HTTP/1.1" 401 58
+WARNING 2025-08-22 21:13:28,745 log 9512 18352 Unauthorized: /api/returns/prudential-returns/pending/
+WARNING 2025-08-22 21:13:28,749 basehttp 9512 18352 "GET /api/returns/prudential-returns/pending/ HTTP/1.1" 401 58
+WARNING 2025-08-22 21:13:28,785 log 9512 18960 Not Found: /api/core/inspection-reports/recent/
+WARNING 2025-08-22 21:13:28,794 basehttp 9512 18960 "GET /api/core/inspection-reports/recent/ HTTP/1.1" 404 3811
+INFO 2025-08-22 21:13:35,490 basehttp 9512 14388 "OPTIONS /api/smi/ HTTP/1.1" 200 0
+WARNING 2025-08-22 21:13:35,503 log 9512 14388 Not Found: /api/smi/
+WARNING 2025-08-22 21:13:35,505 basehttp 9512 14388 "POST /api/smi/ HTTP/1.1" 404 3637
+INFO 2025-08-22 21:13:40,572 autoreload 9512 18424 C:\the_dev\nust\prudential\prudential-backend\apps\core\urls.py changed, reloading.
+INFO 2025-08-22 21:13:40,610 autoreload 9996 15504 C:\the_dev\nust\prudential\prudential-backend\apps\core\urls.py changed, reloading.
+INFO 2025-08-22 21:13:41,641 autoreload 14320 14484 Watching for file changes with StatReloader
+INFO 2025-08-22 21:13:41,696 autoreload 1740 15604 Watching for file changes with StatReloader
+WARNING 2025-08-22 21:13:47,002 log 1740 9540 Unauthorized: /api/core/smis/summary/
+WARNING 2025-08-22 21:13:47,003 basehttp 1740 9540 "GET /api/core/smis/summary/ HTTP/1.1" 401 58
+WARNING 2025-08-22 21:13:47,031 log 1740 16880 Unauthorized: /api/core/risk-assessments/summary/
+WARNING 2025-08-22 21:13:47,034 basehttp 1740 16880 "GET /api/core/risk-assessments/summary/ HTTP/1.1" 401 58
+WARNING 2025-08-22 21:13:47,044 log 1740 17676 Unauthorized: /api/compliance/compliance-indices/summary/
+WARNING 2025-08-22 21:13:47,046 basehttp 1740 17676 "GET /api/compliance/compliance-indices/summary/ HTTP/1.1" 401 58
+WARNING 2025-08-22 21:13:47,054 log 1740 2388 Unauthorized: /api/returns/prudential-returns/pending/
+WARNING 2025-08-22 21:13:47,055 basehttp 1740 2388 "GET /api/returns/prudential-returns/pending/ HTTP/1.1" 401 58
+WARNING 2025-08-22 21:13:47,075 log 1740 19084 Unauthorized: /api/core/inspection-reports/recent/
+WARNING 2025-08-22 21:13:47,079 basehttp 1740 19084 "GET /api/core/inspection-reports/recent/ HTTP/1.1" 401 58
+WARNING 2025-08-22 21:15:37,626 log 1740 18084 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 21:15:37,689 log 1740 15508 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 21:15:37,747 basehttp 1740 18084 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 21:15:37,748 basehttp 1740 15508 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 21:15:37,877 log 1740 16680 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 21:15:38,060 log 1740 15484 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 21:15:38,114 log 1740 18500 Not Found: /api/smi/
+WARNING 2025-08-22 21:15:38,115 basehttp 1740 16680 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 21:15:38,131 basehttp 1740 15484 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 21:15:38,148 basehttp 1740 18500 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 21:16:01,245 log 1740 19060 Unauthorized: /api/auth/token/
+WARNING 2025-08-22 21:16:01,246 basehttp 1740 19060 "POST /api/auth/token/ HTTP/1.1" 401 63
+INFO 2025-08-22 21:16:34,258 basehttp 1740 8260 "POST /api/auth/token/ HTTP/1.1" 200 489
+INFO 2025-08-22 21:16:34,285 basehttp 1740 17328 "GET /api/core/smis/summary/ HTTP/1.1" 200 46
+INFO 2025-08-22 21:16:34,329 basehttp 1740 13460 "GET /api/core/risk-assessments/summary/ HTTP/1.1" 200 161
+ERROR 2025-08-22 21:16:34,455 log 1740 19020 Internal Server Error: /api/compliance/compliance-indices/summary/
+Traceback (most recent call last):
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\apps\compliance_module\views.py", line 30, in summary
+    overall_rate = self.get_queryset().aggregate(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\query.py", line 588, in aggregate
+    return self.query.chain().get_aggregation(self.db, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\sql\query.py", line 460, in get_aggregation
+    aggregate = aggregate_expr.resolve_expression(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\aggregates.py", line 63, in resolve_expression
+    c = super().resolve_expression(query, allow_joins, reuse, summarize)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\expressions.py", line 298, in resolve_expression
+    source_expressions = [
+                         ^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\expressions.py", line 300, in <listcomp>
+    expr.resolve_expression(query, allow_joins, reuse, summarize, for_save)
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\expressions.py", line 902, in resolve_expression
+    return query.resolve_ref(self.name, allow_joins, reuse, summarize)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\sql\query.py", line 2049, in resolve_ref
+    join_info = self.setup_joins(
+                ^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\sql\query.py", line 1900, in setup_joins
+    path, final_field, targets, rest = self.names_to_path(
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\sql\query.py", line 1805, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'overall_compliance_score' into field. Choices are: compliance_score, created_at, id, period, risk_calibration, smi, smi_id, updated_at
+ERROR 2025-08-22 21:16:34,467 basehttp 1740 19020 "GET /api/compliance/compliance-indices/summary/ HTTP/1.1" 500 151787
+ERROR 2025-08-22 21:16:36,264 log 1740 16776 Internal Server Error: /api/returns/prudential-returns/pending/
+Traceback (most recent call last):
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\apps\returns_module\views.py", line 58, in pending
+    upcoming_deadlines = self.get_queryset().filter(
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\query.py", line 1493, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\query.py", line 1511, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\query.py", line 1518, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\sql\query.py", line 1646, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\sql\query.py", line 1678, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\sql\query.py", line 1526, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\sql\query.py", line 1333, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\sql\query.py", line 1805, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'due_date' into field. Choices are: balancesheet, created_at, id, incomestatement, reporting_period, smi, smi_id, status, submission_date, updated_at
+ERROR 2025-08-22 21:16:36,266 basehttp 1740 16776 "GET /api/returns/prudential-returns/pending/ HTTP/1.1" 500 147259
+INFO 2025-08-22 21:16:38,597 basehttp 1740 12024 "GET /api/core/inspection-reports/recent/ HTTP/1.1" 200 14
+INFO 2025-08-22 21:16:38,760 basehttp 1740 16344 "POST /api/core/smis/ HTTP/1.1" 201 376
+INFO 2025-08-22 21:21:33,557 autoreload 1740 15604 C:\the_dev\nust\prudential\prudential-backend\apps\core\urls.py changed, reloading.
+INFO 2025-08-22 21:21:33,855 autoreload 14320 14484 C:\the_dev\nust\prudential\prudential-backend\apps\core\urls.py changed, reloading.
+INFO 2025-08-22 21:21:35,583 autoreload 17936 15968 Watching for file changes with StatReloader
+INFO 2025-08-22 21:21:35,704 autoreload 6512 4172 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:01,857 autoreload 6512 4172 C:\the_dev\nust\prudential\prudential-backend\apps\core\admin.py changed, reloading.
+INFO 2025-08-22 21:33:02,086 autoreload 17936 15968 C:\the_dev\nust\prudential\prudential-backend\apps\core\admin.py changed, reloading.
+INFO 2025-08-22 21:33:08,719 autoreload 19124 17860 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:08,979 autoreload 6412 16480 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:12,356 autoreload 19124 17860 C:\the_dev\nust\prudential\prudential-backend\apps\core\serializers.py changed, reloading.
+INFO 2025-08-22 21:33:12,442 autoreload 6412 16480 C:\the_dev\nust\prudential\prudential-backend\apps\core\serializers.py changed, reloading.
+INFO 2025-08-22 21:33:13,740 autoreload 17492 14276 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:13,754 autoreload 17644 17592 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:19,916 autoreload 17644 17592 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\permissions.py changed, reloading.
+INFO 2025-08-22 21:33:19,950 autoreload 17492 14276 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\permissions.py changed, reloading.
+INFO 2025-08-22 21:33:20,869 autoreload 18424 15748 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:20,902 autoreload 15240 260 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:27,601 autoreload 18424 15748 C:\the_dev\nust\prudential\prudential-backend\config\urls.py changed, reloading.
+INFO 2025-08-22 21:33:27,791 autoreload 15240 260 C:\the_dev\nust\prudential\prudential-backend\config\urls.py changed, reloading.
+INFO 2025-08-22 21:33:29,262 autoreload 16376 17416 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:29,311 autoreload 14956 19272 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:39,149 autoreload 16376 17416 C:\the_dev\nust\prudential\prudential-backend\apps\risk_assessment_module\apps.py changed, reloading.
+INFO 2025-08-22 21:33:39,162 autoreload 14956 19272 C:\the_dev\nust\prudential\prudential-backend\apps\risk_assessment_module\apps.py changed, reloading.
+INFO 2025-08-22 21:33:41,005 autoreload 14964 17616 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:41,011 autoreload 15956 18648 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:57,119 autoreload 14964 17616 C:\the_dev\nust\prudential\prudential-backend\apps\core\views.py changed, reloading.
+INFO 2025-08-22 21:33:57,135 autoreload 15956 18648 C:\the_dev\nust\prudential\prudential-backend\apps\core\views.py changed, reloading.
+INFO 2025-08-22 21:33:58,305 autoreload 18572 3572 Watching for file changes with StatReloader
+INFO 2025-08-22 21:33:58,434 autoreload 16288 17960 Watching for file changes with StatReloader
+WARNING 2025-08-22 21:35:39,845 log 18572 17684 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 21:35:39,846 log 18572 16652 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 21:35:39,846 log 18572 19056 Not Found: /api/smi/
+WARNING 2025-08-22 21:35:39,846 log 18572 124 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 21:35:39,846 log 18572 15576 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 21:35:39,847 basehttp 18572 17684 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 21:35:39,848 basehttp 18572 16652 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 21:35:39,848 basehttp 18572 19056 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 21:35:39,849 basehttp 18572 124 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 21:35:39,850 basehttp 18572 15576 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:34:52,570 log 18572 12132 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 22:34:52,586 log 18572 14408 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 22:34:52,588 log 18572 15532 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 22:34:52,598 basehttp 18572 12132 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 22:34:52,604 basehttp 18572 14408 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:34:52,637 log 18572 1220 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 22:34:52,733 basehttp 18572 1220 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:34:52,676 log 18572 12132 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 22:34:52,737 basehttp 18572 12132 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 22:34:52,729 log 18572 14408 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 22:34:52,638 basehttp 18572 15532 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:34:52,703 log 18572 5044 Not Found: /api/smi/
+WARNING 2025-08-22 22:34:52,775 log 18572 9484 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 22:34:53,001 basehttp 18572 14408 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:34:53,120 log 18572 15532 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 22:34:53,154 basehttp 18572 5044 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 22:34:53,205 basehttp 18572 9484 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:34:53,305 log 18572 14408 Not Found: /api/smi/
+WARNING 2025-08-22 22:34:53,371 basehttp 18572 15532 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:34:53,418 basehttp 18572 14408 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 22:35:19,800 log 18572 14408 Not Found: /api/smis/
+WARNING 2025-08-22 22:35:19,833 basehttp 18572 14408 "GET /api/smis/?page=1&page_size=20 HTTP/1.1" 404 3663
+WARNING 2025-08-22 22:35:19,905 log 18572 15532 Not Found: /api/smis/
+WARNING 2025-08-22 22:35:19,924 basehttp 18572 15532 "GET /api/smis/?page=1&page_size=20 HTTP/1.1" 404 3663
+WARNING 2025-08-22 22:35:26,210 log 18572 15532 Not Found: /api/risk-assessments/
+WARNING 2025-08-22 22:35:26,227 basehttp 18572 15532 "GET /api/risk-assessments/?page=1&page_size=20 HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:35:26,297 log 18572 15532 Not Found: /api/risk-assessments/
+WARNING 2025-08-22 22:35:26,359 basehttp 18572 15532 "GET /api/risk-assessments/?page=1&page_size=20 HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:35:39,018 log 18572 15532 Not Found: /api/risk-assessments/
+WARNING 2025-08-22 22:35:39,088 basehttp 18572 15532 "GET /api/risk-assessments/?page=1&page_size=20 HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:35:51,429 log 18572 15532 Not Found: /api/risk-assessments/
+WARNING 2025-08-22 22:35:51,440 basehttp 18572 15532 "GET /api/risk-assessments/?page=1&page_size=20 HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:35:53,230 log 18572 5044 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 22:35:53,251 log 18572 15532 Not Found: /api/smi/
+WARNING 2025-08-22 22:35:53,266 log 18572 9484 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 22:35:53,319 basehttp 18572 9484 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:35:53,300 log 18572 12132 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 22:35:53,303 basehttp 18572 5044 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:35:53,323 basehttp 18572 12132 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 22:35:53,279 log 18572 14408 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 22:35:53,330 basehttp 18572 14408 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:35:53,314 basehttp 18572 15532 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 22:36:06,593 log 18572 9484 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 22:36:06,612 log 18572 5044 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 22:36:06,688 basehttp 18572 5044 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:36:06,658 log 18572 15532 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 22:36:06,677 log 18572 14408 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 22:36:06,652 log 18572 12132 Not Found: /api/smi/
+WARNING 2025-08-22 22:36:06,692 basehttp 18572 9484 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:36:06,728 basehttp 18572 15532 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 22:36:06,742 basehttp 18572 14408 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:36:06,745 basehttp 18572 12132 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 22:36:06,801 log 18572 1220 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 22:36:06,837 log 18572 5044 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 22:36:06,934 log 18572 9484 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 22:36:07,207 basehttp 18572 9484 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:36:07,161 basehttp 18572 1220 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:36:07,171 log 18572 12132 Not Found: /api/smi/
+WARNING 2025-08-22 22:36:07,207 basehttp 18572 5044 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 22:36:07,116 log 18572 15532 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 22:36:07,269 basehttp 18572 12132 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 22:36:07,278 basehttp 18572 15532 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:36:27,857 log 18572 19328 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 22:36:27,870 basehttp 18572 19328 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:36:27,875 log 18572 3304 Not Found: /api/smi/
+WARNING 2025-08-22 22:36:27,892 log 18572 1720 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 22:36:27,953 basehttp 18572 1720 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:36:27,923 log 18572 19328 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 22:36:27,927 basehttp 18572 3304 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 22:36:27,937 log 18572 17488 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 22:36:27,906 log 18572 11676 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 22:36:27,988 basehttp 18572 19328 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 22:36:28,010 log 18572 1720 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 22:36:28,027 log 18572 3304 Not Found: /api/smi/
+WARNING 2025-08-22 22:36:28,028 basehttp 18572 17488 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 22:36:28,032 basehttp 18572 11676 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:36:28,108 log 18572 19328 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 22:36:28,110 basehttp 18572 1720 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:36:28,111 basehttp 18572 3304 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 22:36:28,139 log 18572 17488 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 22:36:28,140 basehttp 18572 19328 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 22:36:28,146 basehttp 18572 17488 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 22:36:36,617 log 18572 17488 Not Found: /api/financial-statements/
+WARNING 2025-08-22 22:36:36,650 basehttp 18572 17488 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 22:36:36,847 log 18572 19328 Not Found: /api/financial-statements/
+WARNING 2025-08-22 22:36:36,882 basehttp 18572 19328 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 22:36:45,749 log 18572 19328 Not Found: /api/financial-statements/
+WARNING 2025-08-22 22:36:45,750 basehttp 18572 19328 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 22:38:05,280 log 18572 19328 Not Found: /api/financial-statements/
+WARNING 2025-08-22 22:38:05,295 basehttp 18572 19328 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 22:38:20,582 log 18572 19328 Not Found: /api/financial-statements/
+WARNING 2025-08-22 22:38:20,587 basehttp 18572 19328 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 22:38:21,476 log 18572 19328 Not Found: /api/financial-statements/
+WARNING 2025-08-22 22:38:21,476 basehttp 18572 19328 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 22:38:25,428 log 18572 19328 Not Found: /api/financial-statements/
+WARNING 2025-08-22 22:38:25,760 basehttp 18572 19328 "GET /api/financial-statements/?page=1&page_size=20&statement_type=COMPREHENSIVE_INCOME HTTP/1.1" 404 3751
+WARNING 2025-08-22 22:38:36,151 log 18572 19328 Not Found: /api/smis/
+WARNING 2025-08-22 22:38:36,152 basehttp 18572 19328 "GET /api/smis/?page=1&page_size=20 HTTP/1.1" 404 3663
+WARNING 2025-08-22 22:38:36,170 log 18572 17488 Not Found: /api/smis/
+WARNING 2025-08-22 22:38:36,171 basehttp 18572 17488 "GET /api/smis/?page=1&page_size=20 HTTP/1.1" 404 3663
+WARNING 2025-08-22 22:39:42,820 log 18572 17488 Not Found: /api/smis/
+WARNING 2025-08-22 22:39:42,831 basehttp 18572 17488 "GET /api/smis/?page=1&page_size=20 HTTP/1.1" 404 3663
+WARNING 2025-08-22 22:39:42,956 log 18572 17488 Not Found: /api/smis/
+WARNING 2025-08-22 22:39:42,971 basehttp 18572 17488 "GET /api/smis/?page=1&page_size=20 HTTP/1.1" 404 3663
+WARNING 2025-08-22 23:05:24,679 log 18572 14960 Not Found: /api/smis/
+WARNING 2025-08-22 23:05:24,798 basehttp 18572 14960 "GET /api/smis/?page=1&page_size=20 HTTP/1.1" 404 3663
+WARNING 2025-08-22 23:05:35,185 log 18572 14960 Not Found: /api/smi/
+WARNING 2025-08-22 23:05:35,198 log 18572 2104 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 23:05:35,199 basehttp 18572 14960 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 23:05:35,199 basehttp 18572 2104 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 23:05:35,223 log 18572 14960 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 23:05:35,233 log 18572 2104 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 23:05:35,234 basehttp 18572 14960 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 23:05:35,237 basehttp 18572 2104 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 23:05:35,261 log 18572 14960 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 23:05:35,276 log 18572 2104 Not Found: /api/smi/
+WARNING 2025-08-22 23:05:35,278 basehttp 18572 14960 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 23:05:35,315 basehttp 18572 2104 "GET /api/smi/ HTTP/1.1" 404 3636
+WARNING 2025-08-22 23:05:35,361 log 18572 14960 Not Found: /api/risk-assessments/summary/
+WARNING 2025-08-22 23:05:35,376 log 18572 2104 Not Found: /api/compliance-indices/summary/
+WARNING 2025-08-22 23:05:35,395 basehttp 18572 2104 "GET /api/compliance-indices/summary/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 23:05:35,377 basehttp 18572 14960 "GET /api/risk-assessments/summary/ HTTP/1.1" 404 3699
+WARNING 2025-08-22 23:05:35,424 log 18572 14960 Not Found: /api/prudential-returns/pending/
+WARNING 2025-08-22 23:05:35,435 log 18572 2104 Not Found: /api/inspection-reports/recent/
+WARNING 2025-08-22 23:05:35,436 basehttp 18572 14960 "GET /api/prudential-returns/pending/ HTTP/1.1" 404 3705
+WARNING 2025-08-22 23:05:35,440 basehttp 18572 2104 "GET /api/inspection-reports/recent/ HTTP/1.1" 404 3702
+WARNING 2025-08-22 23:05:45,446 log 18572 2104 Not Found: /api/financial-statements/
+WARNING 2025-08-22 23:05:45,446 basehttp 18572 2104 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 23:05:45,463 log 18572 14960 Not Found: /api/financial-statements/
+WARNING 2025-08-22 23:05:45,467 basehttp 18572 14960 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 23:05:58,935 log 18572 14960 Not Found: /api/financial-statements/
+WARNING 2025-08-22 23:05:58,940 basehttp 18572 14960 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 23:06:21,674 log 18572 9036 Not Found: /api/smis/
+WARNING 2025-08-22 23:06:21,675 basehttp 18572 9036 "GET /api/smis/?page=1&page_size=20 HTTP/1.1" 404 3663
+WARNING 2025-08-22 23:06:21,691 log 18572 9036 Not Found: /api/smis/
+WARNING 2025-08-22 23:06:21,692 basehttp 18572 9036 "GET /api/smis/?page=1&page_size=20 HTTP/1.1" 404 3663
+INFO 2025-08-22 23:13:24,672 basehttp 18572 17448 "OPTIONS /api/smis/ HTTP/1.1" 200 0
+WARNING 2025-08-22 23:13:24,684 log 18572 17448 Not Found: /api/smis/
+WARNING 2025-08-22 23:13:24,685 basehttp 18572 17448 "POST /api/smis/ HTTP/1.1" 404 3640
+WARNING 2025-08-22 23:13:55,844 log 18572 17448 Not Found: /api/smis/
+WARNING 2025-08-22 23:13:55,845 basehttp 18572 17448 "POST /api/smis/ HTTP/1.1" 404 3640
+WARNING 2025-08-22 23:13:57,578 log 18572 17448 Not Found: /api/smis/
+WARNING 2025-08-22 23:13:57,578 basehttp 18572 17448 "POST /api/smis/ HTTP/1.1" 404 3640
+WARNING 2025-08-22 23:14:05,390 log 18572 17448 Not Found: /api/smis/
+WARNING 2025-08-22 23:14:05,391 basehttp 18572 17448 "POST /api/smis/ HTTP/1.1" 404 3640
+WARNING 2025-08-22 23:15:05,569 log 18572 17448 Not Found: /api/board-members/
+WARNING 2025-08-22 23:15:05,573 basehttp 18572 17448 "GET /api/board-members/ HTTP/1.1" 404 3666
+WARNING 2025-08-22 23:15:08,043 log 18572 17448 Not Found: /api/board-members/
+WARNING 2025-08-22 23:15:08,044 basehttp 18572 17448 "GET /api/board-members/ HTTP/1.1" 404 3666
+WARNING 2025-08-22 23:15:08,056 log 18572 17448 Not Found: /api/board-members/
+WARNING 2025-08-22 23:15:08,057 basehttp 18572 17448 "GET /api/board-members/ HTTP/1.1" 404 3666
+WARNING 2025-08-22 23:16:34,438 log 18572 17448 Not Found: /api/financial-statements/
+WARNING 2025-08-22 23:16:34,440 basehttp 18572 17448 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 23:16:34,540 log 18572 17448 Not Found: /api/financial-statements/
+WARNING 2025-08-22 23:16:34,628 basehttp 18572 17448 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 23:17:00,497 log 18572 17448 Not Found: /api/financial-statements/
+WARNING 2025-08-22 23:17:00,538 basehttp 18572 17448 "GET /api/financial-statements/?page=1&page_size=20 HTTP/1.1" 404 3711
+WARNING 2025-08-22 23:17:42,097 log 18572 17448 Not Found: /api/stress-tests/
+WARNING 2025-08-22 23:17:42,278 basehttp 18572 17448 "GET /api/stress-tests/ HTTP/1.1" 404 3663
+WARNING 2025-08-22 23:17:45,943 log 18572 17448 Not Found: /api/stress-tests/
+WARNING 2025-08-22 23:17:45,946 basehttp 18572 17448 "GET /api/stress-tests/ HTTP/1.1" 404 3663
+WARNING 2025-08-22 23:17:46,023 log 18572 17448 Not Found: /api/stress-tests/
+WARNING 2025-08-22 23:17:46,027 basehttp 18572 17448 "GET /api/stress-tests/ HTTP/1.1" 404 3663
+WARNING 2025-08-22 23:18:13,077 log 18572 17448 Not Found: /api/stress-tests/
+WARNING 2025-08-22 23:18:13,388 basehttp 18572 17448 "GET /api/stress-tests/ HTTP/1.1" 404 3663
+WARNING 2025-08-22 23:21:18,188 log 18572 17448 Not Found: /api/audit-logs/
+WARNING 2025-08-22 23:21:18,221 basehttp 18572 17448 "GET /api/audit-logs/ HTTP/1.1" 404 3657
+WARNING 2025-08-22 23:21:18,338 log 18572 17448 Not Found: /api/audit-logs/
+WARNING 2025-08-22 23:21:18,339 basehttp 18572 17448 "GET /api/audit-logs/ HTTP/1.1" 404 3657
+WARNING 2025-08-22 23:23:43,067 log 18572 17448 Unauthorized: /api/core/smis/
+WARNING 2025-08-22 23:23:43,377 basehttp 18572 17448 "GET /api/core/smis/ HTTP/1.1" 401 58
+WARNING 2025-08-22 23:23:44,521 log 18572 17448 Not Found: /api/risk-assessment/risk-assessments/summary/
+WARNING 2025-08-22 23:23:44,643 log 18572 15368 Unauthorized: /api/core/smis/
+WARNING 2025-08-22 23:23:44,777 basehttp 18572 17448 "GET /api/risk-assessment/risk-assessments/summary/ HTTP/1.1" 404 3584
+WARNING 2025-08-22 23:23:44,966 basehttp 18572 15368 "GET /api/core/smis/ HTTP/1.1" 401 58
+WARNING 2025-08-22 23:23:45,280 log 18572 12860 Not Found: /api/case-management/inspection-reports/recent/
+WARNING 2025-08-22 23:23:45,618 log 18572 17448 Not Found: /api/risk-assessment/risk-assessments/summary/
+WARNING 2025-08-22 23:23:45,640 log 18572 11004 Unauthorized: /api/returns/prudential-returns/pending/
+WARNING 2025-08-22 23:23:45,873 basehttp 18572 12860 "GET /api/case-management/inspection-reports/recent/ HTTP/1.1" 404 3587
+WARNING 2025-08-22 23:23:45,897 log 18572 16916 Unauthorized: /api/compliance/compliance-indices/summary/
+WARNING 2025-08-22 23:23:46,222 basehttp 18572 17448 "GET /api/risk-assessment/risk-assessments/summary/ HTTP/1.1" 404 3584
+WARNING 2025-08-22 23:23:46,457 basehttp 18572 11004 "GET /api/returns/prudential-returns/pending/ HTTP/1.1" 401 58
+WARNING 2025-08-22 23:23:46,945 log 18572 12860 Not Found: /api/case-management/inspection-reports/recent/
+WARNING 2025-08-22 23:23:47,177 basehttp 18572 16916 "GET /api/compliance/compliance-indices/summary/ HTTP/1.1" 401 58
+WARNING 2025-08-22 23:23:47,611 log 18572 11004 Unauthorized: /api/returns/prudential-returns/pending/
+WARNING 2025-08-22 23:23:47,755 basehttp 18572 12860 "GET /api/case-management/inspection-reports/recent/ HTTP/1.1" 404 3587
+WARNING 2025-08-22 23:23:47,945 log 18572 16916 Unauthorized: /api/compliance/compliance-indices/summary/
+WARNING 2025-08-22 23:23:48,117 basehttp 18572 11004 "GET /api/returns/prudential-returns/pending/ HTTP/1.1" 401 58
+WARNING 2025-08-22 23:23:48,709 basehttp 18572 16916 "GET /api/compliance/compliance-indices/summary/ HTTP/1.1" 401 58
+WARNING 2025-08-22 23:25:55,161 log 18572 16916 Unauthorized: /api/core/smis/
+WARNING 2025-08-22 23:25:55,445 basehttp 18572 16916 "GET /api/core/smis/?page=1&page_size=20&status=ALL HTTP/1.1" 401 58
+WARNING 2025-08-22 23:40:25,646 log 18572 10628 Unauthorized: /api/returns/prudential-returns/pending/
+WARNING 2025-08-22 23:40:25,812 basehttp 18572 10628 "GET /api/returns/prudential-returns/pending/ HTTP/1.1" 401 58
+WARNING 2025-08-22 23:40:25,900 log 18572 15196 Unauthorized: /api/compliance/compliance-indices/summary/
+WARNING 2025-08-22 23:40:26,366 log 18572 11684 Unauthorized: /api/core/smis/
+WARNING 2025-08-22 23:40:26,406 basehttp 18572 15196 "GET /api/compliance/compliance-indices/summary/ HTTP/1.1" 401 58
+WARNING 2025-08-22 23:40:26,595 log 18572 17244 Not Found: /api/risk-assessment/risk-assessments/summary/
+WARNING 2025-08-22 23:40:26,596 basehttp 18572 11684 "GET /api/core/smis/ HTTP/1.1" 401 58
+WARNING 2025-08-22 23:40:26,601 basehttp 18572 17244 "GET /api/risk-assessment/risk-assessments/summary/ HTTP/1.1" 404 3584
+WARNING 2025-08-22 23:40:26,674 log 18572 5532 Not Found: /api/case-management/inspection-reports/recent/
+WARNING 2025-08-22 23:40:26,681 basehttp 18572 5532 "GET /api/case-management/inspection-reports/recent/ HTTP/1.1" 404 3587
+WARNING 2025-08-22 23:40:57,573 log 18572 5532 Unauthorized: /api/core/smis/
+WARNING 2025-08-22 23:40:57,655 basehttp 18572 5532 "GET /api/core/smis/?page=1&page_size=20&status=ALL HTTP/1.1" 401 58
+WARNING 2025-08-22 23:41:26,411 log 18572 5532 Unauthorized: /api/core/smis/
+WARNING 2025-08-22 23:41:26,412 basehttp 18572 5532 "GET /api/core/smis/?page=1&page_size=20&status=ALL HTTP/1.1" 401 58
+WARNING 2025-08-22 23:41:26,416 log 18572 5532 Unauthorized: /api/core/smis/
+WARNING 2025-08-22 23:41:26,416 basehttp 18572 5532 "GET /api/core/smis/?page=1&page_size=20&status=ALL HTTP/1.1" 401 58
+INFO 2025-08-22 23:41:56,488 basehttp 18572 5532 "OPTIONS /api/core/smis/ HTTP/1.1" 200 0
+WARNING 2025-08-22 23:41:56,495 log 18572 5532 Unauthorized: /api/core/smis/
+WARNING 2025-08-22 23:41:56,496 basehttp 18572 5532 "POST /api/core/smis/ HTTP/1.1" 401 58
+INFO 2025-08-28 00:01:44,718 autoreload 15932 17368 Watching for file changes with StatReloader
+WARNING 2025-08-28 00:01:59,172 log 15932 16120 Not Found: /api/auth/register/
+WARNING 2025-08-28 00:01:59,173 basehttp 15932 16120 "POST /api/auth/register/ HTTP/1.1" 404 11869
+INFO 2025-08-28 00:04:37,246 autoreload 15932 17368 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\urls.py changed, reloading.
+INFO 2025-08-28 00:04:38,505 autoreload 12112 18628 Watching for file changes with StatReloader
+ERROR 2025-08-28 00:06:56,416 views 12112 15552 User registration failed: {'confirm_password': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-08-28 00:06:56,419 log 12112 15552 Internal Server Error: /api/auth/register/
+ERROR 2025-08-28 00:06:56,421 basehttp 12112 15552 "POST /api/auth/register/ HTTP/1.1" 500 50
+INFO 2025-08-28 00:07:18,241 autoreload 12112 18628 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\urls.py changed, reloading.
+INFO 2025-08-28 00:07:20,029 autoreload 17916 17100 Watching for file changes with StatReloader
+ERROR 2025-08-28 00:09:45,161 views 17916 13028 User registration failed: type object 'UserProfile' has no attribute 'ACCOUNTANT'
+ERROR 2025-08-28 00:09:45,163 log 17916 13028 Internal Server Error: /api/auth/register/
+ERROR 2025-08-28 00:09:45,168 basehttp 17916 13028 "POST /api/auth/register/ HTTP/1.1" 500 50
+INFO 2025-08-28 00:10:28,657 autoreload 17916 17100 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\serializers.py changed, reloading.
+INFO 2025-08-28 00:10:30,279 autoreload 19736 19840 Watching for file changes with StatReloader
+INFO 2025-08-28 00:11:04,846 autoreload 19736 19840 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\serializers.py changed, reloading.
+INFO 2025-08-28 00:11:06,167 autoreload 1108 16452 Watching for file changes with StatReloader
+ERROR 2025-08-28 00:11:36,589 views 1108 9152 User registration failed: type object 'UserProfile' has no attribute 'ACCOUNTANT'
+ERROR 2025-08-28 00:11:36,599 log 1108 9152 Internal Server Error: /api/auth/register/
+ERROR 2025-08-28 00:11:36,601 basehttp 1108 9152 "POST /api/auth/register/ HTTP/1.1" 500 50
+INFO 2025-08-28 00:12:05,897 autoreload 1108 16452 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\views.py changed, reloading.
+INFO 2025-08-28 00:12:06,794 autoreload 20404 20360 Watching for file changes with StatReloader
+ERROR 2025-08-28 00:12:25,476 views 20404 13296 User registration failed: UNIQUE constraint failed: auth_module_userprofile.user_id
+ERROR 2025-08-28 00:12:25,481 log 20404 13296 Internal Server Error: /api/auth/register/
+ERROR 2025-08-28 00:12:25,482 basehttp 20404 13296 "POST /api/auth/register/ HTTP/1.1" 500 50
+INFO 2025-08-28 00:12:48,702 autoreload 20404 20360 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\serializers.py changed, reloading.
+INFO 2025-08-28 00:12:49,750 autoreload 19760 6104 Watching for file changes with StatReloader
+INFO 2025-08-28 00:13:08,451 views 19760 20428 New user registered: testuser with role: PRINCIPAL_OFFICER
+INFO 2025-08-28 00:13:08,523 basehttp 19760 20428 "POST /api/auth/register/ HTTP/1.1" 201 695
+ERROR 2025-08-28 00:16:03,677 views 19760 7604 User registration failed: {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2025-08-28 00:16:03,685 log 19760 7604 Internal Server Error: /api/auth/register/
+ERROR 2025-08-28 00:16:03,685 basehttp 19760 7604 "POST /api/auth/register/ HTTP/1.1" 500 50
+INFO 2025-08-28 00:17:06,364 views 19760 19256 New user registered: ndourc with role: PRINCIPAL_OFFICER
+INFO 2025-08-28 00:17:06,378 basehttp 19760 19256 "POST /api/auth/register/ HTTP/1.1" 201 699
+INFO 2025-08-28 00:19:24,291 views 19760 13724 User logged in: ndourc
+INFO 2025-08-28 00:19:24,301 basehttp 19760 13724 "POST /api/auth/login/ HTTP/1.1" 200 687
+WARNING 2025-08-28 00:20:59,021 log 19760 2496 Forbidden: /api/core/smis/
+WARNING 2025-08-28 00:20:59,023 basehttp 19760 2496 "POST /api/core/smis/ HTTP/1.1" 403 63
+WARNING 2025-08-28 00:21:12,709 log 19760 2496 Forbidden: /api/core/smis/
+WARNING 2025-08-28 00:21:12,712 basehttp 19760 2496 "POST /api/core/smis/ HTTP/1.1" 403 63
+WARNING 2025-08-28 00:21:20,675 log 19760 2496 Unauthorized: /api/core/smis/
+WARNING 2025-08-28 00:21:20,676 basehttp 19760 2496 "POST /api/core/smis/ HTTP/1.1" 401 107
+WARNING 2025-08-28 00:26:30,891 log 19760 19872 Unauthorized: /api/auth/me/
+WARNING 2025-08-28 00:26:30,903 basehttp 19760 19872 "GET /api/auth/me/ HTTP/1.1" 401 107
+INFO 2025-08-28 00:26:47,836 basehttp 19760 19872 "GET /api/auth/me/ HTTP/1.1" 200 161
+WARNING 2025-08-28 00:27:10,131 log 19760 19872 Forbidden: /api/core/smis/
+WARNING 2025-08-28 00:27:10,132 basehttp 19760 19872 "POST /api/core/smis/ HTTP/1.1" 403 63
+WARNING 2025-08-28 00:28:21,910 log 19760 976 Forbidden: /api/core/smis/
+WARNING 2025-08-28 00:28:21,910 basehttp 19760 976 "POST /api/core/smis/ HTTP/1.1" 403 63
+INFO 2025-08-28 00:28:42,468 basehttp 19760 976 "GET /api/auth/dashboard/ HTTP/1.1" 200 392
+INFO 2025-08-28 00:34:14,987 basehttp 19760 16464 "GET /api/core/smis/ HTTP/1.1" 200 792
+WARNING 2025-08-28 00:34:27,224 log 19760 16464 Forbidden: /api/core/smis/
+WARNING 2025-08-28 00:34:27,225 basehttp 19760 16464 "POST /api/core/smis/ HTTP/1.1" 403 63
+INFO 2025-08-28 00:34:39,556 views 19760 16464 User logged in: ndourc
+INFO 2025-08-28 00:34:39,582 basehttp 19760 16464 "POST /api/auth/login/ HTTP/1.1" 200 687
+WARNING 2025-08-28 00:35:22,038 log 19760 16464 Forbidden: /api/core/smis/
+WARNING 2025-08-28 00:35:22,039 basehttp 19760 16464 "POST /api/core/smis/ HTTP/1.1" 403 63
+WARNING 2025-08-28 00:41:34,019 log 19760 20040 Forbidden: /api/core/smis/
+WARNING 2025-08-28 00:41:34,020 basehttp 19760 20040 "POST /api/core/smis/ HTTP/1.1" 403 63
+INFO 2025-08-28 00:43:47,333 autoreload 19760 6104 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\views.py changed, reloading.
+INFO 2025-08-28 00:43:48,298 autoreload 1904 13508 Watching for file changes with StatReloader
+INFO 2025-08-28 00:45:17,875 autoreload 1904 13508 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\models.py changed, reloading.
+INFO 2025-08-28 00:45:18,755 autoreload 6244 1772 Watching for file changes with StatReloader
+INFO 2025-08-28 00:45:27,485 autoreload 6244 1772 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\models.py changed, reloading.
+INFO 2025-08-28 00:45:28,612 autoreload 18052 20024 Watching for file changes with StatReloader
+INFO 2025-08-28 00:46:14,667 autoreload 18052 20024 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\models.py changed, reloading.
+INFO 2025-08-28 00:46:15,808 autoreload 13768 14060 Watching for file changes with StatReloader
+ERROR 2025-08-28 00:47:22,722 views 13768 19716 User registration failed: UserProfile() got unexpected keyword arguments: 'department', 'position'
+ERROR 2025-08-28 00:47:22,724 log 13768 19716 Internal Server Error: /api/auth/register/
+ERROR 2025-08-28 00:47:22,724 basehttp 13768 19716 "POST /api/auth/register/ HTTP/1.1" 500 50
+INFO 2025-08-28 01:03:26,612 autoreload 13768 14060 C:\the_dev\nust\prudential\prudential-backend\apps\case_management_module\models.py changed, reloading.
+INFO 2025-08-28 01:03:35,886 autoreload 18508 18344 Watching for file changes with StatReloader
+ERROR 2025-08-28 01:10:04,766 views 18508 14708 User registration failed: UserProfile() got unexpected keyword arguments: 'department', 'position'
+ERROR 2025-08-28 01:10:04,812 log 18508 14708 Internal Server Error: /api/auth/register/
+ERROR 2025-08-28 01:10:04,852 basehttp 18508 14708 "POST /api/auth/register/ HTTP/1.1" 500 50
+INFO 2025-08-28 01:10:39,665 autoreload 18508 18344 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\views.py changed, reloading.
+INFO 2025-08-28 01:10:40,970 autoreload 4268 16196 Watching for file changes with StatReloader
+ERROR 2025-08-28 01:11:10,581 views 4268 14240 User registration failed: NOT NULL constraint failed: auth_module_userprofile.department
+ERROR 2025-08-28 01:11:10,584 log 4268 14240 Internal Server Error: /api/auth/register/
+ERROR 2025-08-28 01:11:10,586 basehttp 4268 14240 "POST /api/auth/register/ HTTP/1.1" 500 50
+INFO 2025-08-28 01:12:22,851 autoreload 4268 16196 C:\the_dev\nust\prudential\prudential-backend\apps\auth_module\views.py changed, reloading.
+INFO 2025-08-28 01:12:24,640 autoreload 14708 13020 Watching for file changes with StatReloader
+INFO 2025-08-28 01:13:07,463 autoreload 11940 7676 Watching for file changes with StatReloader
+INFO 2025-08-28 01:13:14,187 views 11940 18592 New user registered: henry with role: ADMIN
+INFO 2025-08-28 01:13:14,221 basehttp 11940 18592 "POST /api/auth/register/ HTTP/1.1" 201 697
+INFO 2025-08-28 01:14:01,217 views 11940 18592 User logged in: ndourc
+INFO 2025-08-28 01:14:01,227 basehttp 11940 18592 "POST /api/auth/login/ HTTP/1.1" 200 687
+INFO 2025-08-28 01:14:22,362 basehttp 11940 18592 "GET /api/auth/me/ HTTP/1.1" 200 161
+WARNING 2025-08-28 01:14:33,774 log 11940 18592 Forbidden: /api/core/smis/
+WARNING 2025-08-28 01:14:33,775 basehttp 11940 18592 "POST /api/core/smis/ HTTP/1.1" 403 63
+INFO 2025-08-28 01:17:29,394 basehttp 11940 17988 "GET /api/auth/me/ HTTP/1.1" 200 161
+WARNING 2025-08-28 01:18:05,312 log 11940 17988 Unauthorized: /api/auth/login/
+WARNING 2025-08-28 01:18:05,322 basehttp 11940 17988 "POST /api/auth/login/ HTTP/1.1" 401 172
+WARNING 2025-08-28 01:18:31,342 log 11940 17988 Unauthorized: /api/auth/login/
+WARNING 2025-08-28 01:18:31,344 basehttp 11940 17988 "POST /api/auth/login/ HTTP/1.1" 401 172
+INFO 2025-08-28 01:18:40,999 views 11940 17988 User logged in: henry
+INFO 2025-08-28 01:18:41,012 basehttp 11940 17988 "POST /api/auth/login/ HTTP/1.1" 200 685
+INFO 2025-08-28 01:18:49,988 basehttp 11940 17988 "GET /api/auth/me/ HTTP/1.1" 200 161
+INFO 2025-08-28 01:19:31,705 basehttp 11940 17988 "GET /api/auth/me/ HTTP/1.1" 200 159
+ERROR 2025-08-28 01:19:43,970 log 11940 17988 Internal Server Error: /api/core/smis/
+Traceback (most recent call last):
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\mixins.py", line 20, in create
+    headers = self.get_success_headers(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 573, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\fields.py", line 1272, in to_representation
+    assert not isinstance(value, datetime.datetime), (
+AssertionError: Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+ERROR 2025-08-28 01:19:43,992 basehttp 11940 17988 "POST /api/core/smis/ HTTP/1.1" 500 131197
+INFO 2025-08-28 01:31:43,182 autoreload 11940 7676 C:\the_dev\nust\prudential\prudential-backend\apps\core\models.py changed, reloading.
+INFO 2025-08-28 01:31:44,125 autoreload 16540 14032 Watching for file changes with StatReloader
+INFO 2025-08-28 01:40:46,604 autoreload 4644 15944 Watching for file changes with StatReloader
+WARNING 2025-08-28 01:40:57,301 log 4644 4540 Bad Request: /api/core/smis/
+WARNING 2025-08-28 01:40:57,304 basehttp 4644 4540 "POST /api/core/smis/ HTTP/1.1" 400 67
+INFO 2025-08-28 01:42:50,984 basehttp 4644 16240 "GET /api/core/smis/3f5d52c1-d659-4dcb-888b-4a98cec9e060/ HTTP/1.1" 200 552
+WARNING 2025-08-28 01:43:29,791 log 4644 16240 Not Found: /api/risk-assessment/risk-assessments/
+WARNING 2025-08-28 01:43:29,792 basehttp 4644 16240 "POST /api/risk-assessment/risk-assessments/ HTTP/1.1" 404 15264
+WARNING 2025-08-28 01:48:55,319 log 4644 9504 Not Found: /api/assessments/
+WARNING 2025-08-28 01:48:55,320 basehttp 4644 9504 "POST /api/assessments/ HTTP/1.1" 404 3818
+INFO 2025-08-28 01:49:57,005 basehttp 4644 14580 "POST /api/risk-assessment/assessments/ HTTP/1.1" 201 907
+WARNING 2025-08-28 01:50:16,822 log 4644 14580 Not Found: /api/risk-assessment/dashboard/
+WARNING 2025-08-28 01:50:16,823 basehttp 4644 14580 "GET /api/risk-assessment/dashboard/ HTTP/1.1" 404 15242
+INFO 2025-08-28 01:50:46,528 basehttp 4644 14580 "GET /api/risk-assessment/trends/ HTTP/1.1" 200 52
+INFO 2025-08-28 01:51:13,263 basehttp 4644 14580 "GET /api/risk-assessment/assessments/ HTTP/1.1" 200 959
+ERROR 2025-08-28 01:52:41,096 log 4644 1628 Internal Server Error: /api/risk-assessment/stress-tests/
+Traceback (most recent call last):
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\mixins.py", line 20, in create
+    headers = self.get_success_headers(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 573, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\fields.py", line 1272, in to_representation
+    assert not isinstance(value, datetime.datetime), (
+AssertionError: Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+ERROR 2025-08-28 01:52:41,101 basehttp 4644 1628 "POST /api/risk-assessment/stress-tests/ HTTP/1.1" 500 137378
+INFO 2025-08-28 01:55:40,079 autoreload 4644 15944 C:\the_dev\nust\prudential\prudential-backend\apps\risk_assessment_module\serializers.py changed, reloading.
+INFO 2025-08-28 01:55:41,398 autoreload 17196 16092 Watching for file changes with StatReloader
+WARNING 2025-08-28 01:55:50,709 log 17196 5508 Bad Request: /api/risk-assessment/stress-tests/
+WARNING 2025-08-28 01:55:50,710 basehttp 17196 5508 "POST /api/risk-assessment/stress-tests/ HTTP/1.1" 400 41
+INFO 2025-08-28 01:56:39,181 autoreload 17196 16092 C:\the_dev\nust\prudential\prudential-backend\apps\risk_assessment_module\serializers.py changed, reloading.
+INFO 2025-08-28 01:56:40,683 autoreload 17952 16684 Watching for file changes with StatReloader
+INFO 2025-08-28 01:56:58,624 autoreload 17952 16684 C:\the_dev\nust\prudential\prudential-backend\apps\risk_assessment_module\models.py changed, reloading.
+INFO 2025-08-28 01:56:59,775 autoreload 17804 9204 Watching for file changes with StatReloader
+INFO 2025-08-28 01:57:16,554 autoreload 12116 5516 Watching for file changes with StatReloader
+INFO 2025-08-28 01:57:35,204 basehttp 12116 18960 "POST /api/risk-assessment/stress-tests/ HTTP/1.1" 201 875
+ERROR 2025-08-28 01:59:42,659 log 12116 12072 Internal Server Error: /api/case-management/cases/
+Traceback (most recent call last):
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\mixins.py", line 20, in create
+    headers = self.get_success_headers(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 573, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 540, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\fields.py", line 1272, in to_representation
+    assert not isinstance(value, datetime.datetime), (
+AssertionError: Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+ERROR 2025-08-28 01:59:42,671 basehttp 12116 12072 "POST /api/case-management/cases/ HTTP/1.1" 500 139739
+INFO 2025-08-28 02:00:13,479 autoreload 12116 5516 C:\the_dev\nust\prudential\prudential-backend\apps\case_management_module\models.py changed, reloading.
+INFO 2025-08-28 02:00:14,523 autoreload 8540 18532 Watching for file changes with StatReloader
+INFO 2025-08-28 02:00:42,438 autoreload 5136 8168 Watching for file changes with StatReloader
+INFO 2025-08-28 02:00:46,496 basehttp 5136 13596 "POST /api/case-management/cases/ HTTP/1.1" 201 971
+INFO 2025-08-28 02:01:59,262 basehttp 5136 9712 "GET /api/case-management/case-notes/ HTTP/1.1" 200 52
+INFO 2025-08-28 02:02:34,235 autoreload 5136 8168 C:\the_dev\nust\prudential\prudential-backend\apps\case_management_module\models.py changed, reloading.
+INFO 2025-08-28 02:02:35,405 autoreload 13888 16572 Watching for file changes with StatReloader
+INFO 2025-08-28 02:02:52,439 autoreload 18720 18836 Watching for file changes with StatReloader
+WARNING 2025-08-28 02:03:15,521 log 18720 6448 Bad Request: /api/case-management/case-notes/
+WARNING 2025-08-28 02:03:15,523 basehttp 18720 6448 "POST /api/case-management/case-notes/ HTTP/1.1" 400 36
+WARNING 2025-08-28 02:04:22,566 log 18720 11316 Bad Request: /api/case-management/case-notes/
+WARNING 2025-08-28 02:04:22,567 basehttp 18720 11316 "POST /api/case-management/case-notes/ HTTP/1.1" 400 36
+WARNING 2025-08-28 02:05:07,189 log 18720 11316 Bad Request: /api/case-management/case-notes/
+WARNING 2025-08-28 02:05:07,190 basehttp 18720 11316 "POST /api/case-management/case-notes/ HTTP/1.1" 400 36
+INFO 2025-08-28 10:39:15,475 autoreload 2828 7052 Watching for file changes with StatReloader
+WARNING 2025-08-28 11:06:35,643 log 2828 14864 Unauthorized: /api/auth/login/
+WARNING 2025-08-28 11:06:35,646 basehttp 2828 14864 "POST /api/auth/login/ HTTP/1.1" 401 172
+INFO 2025-08-28 11:07:50,423 views 2828 11960 User logged in: henry
+INFO 2025-08-28 11:07:50,441 basehttp 2828 11960 "POST /api/auth/login/ HTTP/1.1" 200 685
+INFO 2025-08-28 11:08:44,487 basehttp 2828 11960 "GET /api/risk-assessment/assessments/ HTTP/1.1" 200 959
+INFO 2025-08-28 11:16:44,493 basehttp 2828 1696 "GET /api/case-management/cases/ HTTP/1.1" 200 1995
+WARNING 2025-08-28 11:21:26,180 log 2828 4548 Bad Request: /api/case-management/case-notes/
+WARNING 2025-08-28 11:21:26,182 basehttp 2828 4548 "POST /api/case-management/case-notes/ HTTP/1.1" 400 36
+WARNING 2025-08-28 11:40:55,322 log 2828 18080 Bad Request: /api/case-management/case-notes/
+WARNING 2025-08-28 11:40:55,323 basehttp 2828 18080 "POST /api/case-management/case-notes/ HTTP/1.1" 400 62
+INFO 2025-08-28 11:41:18,230 basehttp 2828 18080 "POST /api/case-management/case-notes/ HTTP/1.1" 201 272
+INFO 2025-08-28 11:42:10,492 basehttp 2828 18080 "GET /api/compliance/compliance-indices/ HTTP/1.1" 200 52
+INFO 2025-08-28 11:54:45,803 basehttp 2828 12184 "GET /api/compliance/compliance-indices/ HTTP/1.1" 200 52
+INFO 2025-08-28 11:54:56,712 basehttp 2828 12184 "POST /api/compliance/compliance-indices/ HTTP/1.1" 201 795
+WARNING 2025-08-28 11:56:04,747 log 2828 19036 Not Found: /api/compliance/compliance-assessments/
+WARNING 2025-08-28 11:56:04,748 basehttp 2828 19036 "POST /api/compliance/compliance-assessments/ HTTP/1.1" 404 14420
+INFO 2025-08-28 11:56:21,340 basehttp 2828 19036 "POST /api/compliance/assessments/ HTTP/1.1" 201 1295
+WARNING 2025-08-28 11:59:35,813 log 2828 4940 Not Found: /api/va-vasp/va-vasp/
+WARNING 2025-08-28 11:59:35,814 basehttp 2828 4940 "POST /api/va-vasp/va-vasp/ HTTP/1.1" 404 14991
+INFO 2025-08-28 12:00:09,506 basehttp 2828 4940 "POST /api/va-vasp/analyses/ HTTP/1.1" 201 919
+ERROR 2025-08-28 12:01:15,327 log 2828 18768 Internal Server Error: /api/licensing/institutional-profiles/
+Traceback (most recent call last):
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: licensing_module_institutionalprofile
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\the_dev\nust\prudential\prudential-backend\apps\licensing_module\views.py", line 166, in perform_create
+    serializer.save()
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 210, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\rest_framework\serializers.py", line 991, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\query.py", line 663, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\base.py", line 902, in save
+    self.save_base(
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\base.py", line 1008, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\base.py", line 1169, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\base.py", line 1210, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\query.py", line 1868, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\models\sql\compiler.py", line 1882, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\the_dev\nust\prudential\prudential-backend\prudential_env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: licensing_module_institutionalprofile
+ERROR 2025-08-28 12:01:15,337 basehttp 2828 18768 "POST /api/licensing/institutional-profiles/ HTTP/1.1" 500 241823
+INFO 2025-08-28 12:20:30,843 autoreload 19924 9220 Watching for file changes with StatReloader
+WARNING 2025-08-28 12:20:33,778 log 19924 9432 Unauthorized: /api/licensing/institutional-profiles/
+WARNING 2025-08-28 12:20:33,780 basehttp 19924 9432 "POST /api/licensing/institutional-profiles/ HTTP/1.1" 401 172
+INFO 2025-08-28 12:20:56,626 views 19924 9432 User logged in: henry
+INFO 2025-08-28 12:20:56,670 basehttp 19924 9432 "POST /api/auth/login/ HTTP/1.1" 200 685
+INFO 2025-08-28 12:21:21,597 basehttp 19924 9432 "POST /api/licensing/institutional-profiles/ HTTP/1.1" 201 830
+WARNING 2025-08-28 12:21:48,307 log 19924 9432 Bad Request: /api/licensing/shareholders/
+WARNING 2025-08-28 12:21:48,311 basehttp 19924 9432 "POST /api/licensing/shareholders/ HTTP/1.1" 400 36
+INFO 2025-08-28 12:21:58,620 basehttp 19924 9432 "POST /api/licensing/shareholders/ HTTP/1.1" 201 801
+WARNING 2025-08-28 12:24:46,200 log 19924 18948 Bad Request: /api/returns/prudential-returns/
+WARNING 2025-08-28 12:24:46,201 basehttp 19924 18948 "POST /api/returns/prudential-returns/ HTTP/1.1" 400 48
+INFO 2025-08-28 12:25:10,837 basehttp 19924 18948 "POST /api/returns/prudential-returns/ HTTP/1.1" 201 548
+INFO 2025-08-28 12:25:47,226 basehttp 19924 18948 "GET /api/returns/prudential-returns/ HTTP/1.1" 200 600
+INFO 2025-08-28 12:26:07,188 basehttp 19924 18948 "GET /api/case-management/cases/ HTTP/1.1" 200 1995
+INFO 2025-10-31 17:46:09,915 autoreload 20284 15148 Watching for file changes with StatReloader
+INFO 2025-10-31 18:15:47,900 autoreload 20284 15148 C:\the_dev\nust\seczim\prudential-backend\apps\smi_module\serializers.py changed, reloading.
+INFO 2025-10-31 18:15:49,203 autoreload 8796 19212 Watching for file changes with StatReloader
+INFO 2025-10-31 18:16:31,469 autoreload 8796 19212 C:\the_dev\nust\seczim\prudential-backend\apps\smi_module\views.py changed, reloading.
+INFO 2025-10-31 18:16:32,739 autoreload 5616 17872 Watching for file changes with StatReloader
+INFO 2025-10-31 18:16:46,721 autoreload 5616 17872 C:\the_dev\nust\seczim\prudential-backend\apps\smi_module\views.py changed, reloading.
+INFO 2025-10-31 18:16:47,557 autoreload 18512 12928 Watching for file changes with StatReloader
+WARNING 2025-10-31 18:16:58,450 log 18512 10388 Unauthorized: /api/v1/smi-submission/
+WARNING 2025-10-31 18:16:58,498 basehttp 18512 10388 "POST /api/v1/smi-submission/ HTTP/1.1" 401 58
+INFO 2025-10-31 18:19:10,074 autoreload 18512 12928 C:\the_dev\nust\seczim\prudential-backend\apps\smi_module\models.py changed, reloading.
+INFO 2025-10-31 18:19:11,683 autoreload 19644 4252 Watching for file changes with StatReloader
+INFO 2025-10-31 18:19:18,737 autoreload 19644 4252 C:\the_dev\nust\seczim\prudential-backend\apps\smi_module\serializers.py changed, reloading.
+INFO 2025-10-31 18:19:20,075 autoreload 11328 3040 Watching for file changes with StatReloader
+INFO 2025-10-31 18:19:54,101 autoreload 11328 3040 C:\the_dev\nust\seczim\prudential-backend\apps\smi_module\views.py changed, reloading.
+INFO 2025-10-31 18:19:55,757 autoreload 17872 15424 Watching for file changes with StatReloader
+INFO 2025-10-31 18:21:29,965 autoreload 17872 15424 C:\the_dev\nust\seczim\prudential-backend\apps\smi_module\models.py changed, reloading.
+INFO 2025-10-31 18:21:30,957 autoreload 18824 7068 Watching for file changes with StatReloader
+WARNING 2025-10-31 18:30:17,554 log 18824 10000 Unauthorized: /api/auth/login/
+WARNING 2025-10-31 18:30:17,555 basehttp 18824 10000 "POST /api/auth/login/ HTTP/1.1" 401 31
+ERROR 2025-10-31 18:32:58,530 views 18824 17980 User registration failed: {'confirm_password': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-10-31 18:32:58,538 log 18824 17980 Internal Server Error: /api/auth/register/
+ERROR 2025-10-31 18:32:58,539 basehttp 18824 17980 "POST /api/auth/register/ HTTP/1.1" 500 50
+ERROR 2025-10-31 18:35:12,826 views 18824 3464 User registration failed: {'non_field_errors': [ErrorDetail(string='Passwords do not match', code='invalid')]}
+ERROR 2025-10-31 18:35:12,828 log 18824 3464 Internal Server Error: /api/auth/register/
+ERROR 2025-10-31 18:35:12,837 basehttp 18824 3464 "POST /api/auth/register/ HTTP/1.1" 500 50
+INFO 2025-10-31 18:35:34,950 views 18824 9580 New user registered: mei with role: COMPLIANCE_OFFICER
+INFO 2025-10-31 18:35:35,046 basehttp 18824 9580 "POST /api/auth/register/ HTTP/1.1" 201 683
+ERROR 2025-10-31 18:35:37,796 views 18824 9580 User registration failed: {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2025-10-31 18:35:37,797 log 18824 9580 Internal Server Error: /api/auth/register/
+ERROR 2025-10-31 18:35:37,798 basehttp 18824 9580 "POST /api/auth/register/ HTTP/1.1" 500 50
+INFO 2025-10-31 18:37:06,606 views 18824 18568 User logged in: mei
+INFO 2025-10-31 18:37:06,617 basehttp 18824 18568 "POST /api/auth/login/ HTTP/1.1" 200 671
+WARNING 2025-10-31 18:41:39,973 log 18824 8628 Bad Request: /api/v1/smi-submission/
+WARNING 2025-10-31 18:41:39,974 basehttp 18824 8628 "POST /api/v1/smi-submission/ HTTP/1.1" 400 357
